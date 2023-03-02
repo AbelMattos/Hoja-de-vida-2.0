@@ -4,7 +4,7 @@
 
 | Datos | Descripcion |
 | Nombre | Abel Mattos |
-| Cedula | 1044611454 |
+| T.I. | 1044611454 |
 | Edad | 17 años |
 | Correo | martinezmattosabeljesus5@gmail.com |
 
